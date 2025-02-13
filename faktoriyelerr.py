@@ -1,3 +1,5 @@
+# faktoriyel fonksiyonu icerisinde islem yapan yanlis deger girilince hata mesaji veren program
+
 def faktoriyel(x):
     x = int(x)
 
